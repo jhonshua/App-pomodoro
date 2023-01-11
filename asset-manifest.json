@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/App-pomodoro/static/css/main.b9676ace.css",
+    "main.js": "/App-pomodoro/static/js/main.a47b4257.js",
+    "static/js/787.1ee58fdb.chunk.js": "/App-pomodoro/static/js/787.1ee58fdb.chunk.js",
+    "static/media/tomate.png": "/App-pomodoro/static/media/tomate.c1afba64baa7d9f7f11e.png",
+    "index.html": "/App-pomodoro/index.html",
+    "main.b9676ace.css.map": "/App-pomodoro/static/css/main.b9676ace.css.map",
+    "main.a47b4257.js.map": "/App-pomodoro/static/js/main.a47b4257.js.map",
+    "787.1ee58fdb.chunk.js.map": "/App-pomodoro/static/js/787.1ee58fdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9676ace.css",
+    "static/js/main.a47b4257.js"
+  ]
+}
